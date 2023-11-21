@@ -4,7 +4,7 @@
 
 ## Concepts
 
-SPF Finder is a lightweight Python script developed by [Nithyajothika R](https://github.com/nithyajothika) that includes the following concepts:
+SPF Finder is a lightweight Python script developed by [Nithyajothika R](https://github.com/NithyaJothika/spf.git) that includes the following concepts:
 
 1. **SPF Finder:** This concept involves the implementation of a feature that helps locate specific elements within a dataset. The script intelligently identifies and displays information related to the SPF Finder concept.
 
@@ -17,7 +17,7 @@ To use SPF Finder, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/nithyajothika/spf.git
+    git clone https://github.com/NithyaJothika/spf.git
     cd spf
     ```
 
